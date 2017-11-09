@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World2!</h2>
+<meta http-equiv="refresh" content="0; URL='/login.html" />
 </body>
 </html>
